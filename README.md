@@ -39,6 +39,17 @@ https://space.bilibili.com/101544135?from=search&seid=15760312842175293144
 FOR BRITISH
 https://www.bilibili.com/video/av33716467?from=search&seid=9726236426183641635
 
+
+看动画学中文
+
+https://www.bilibili.com/video/av38526058?from=search&seid=7731549229589374249
+
+听相声学中文
+
+听歌学中文
+
+听白袖学中文 
+
 ref
 1.https://en.wikipedia.org/wiki/Chinese_characters
 2.https://github.com/skishore/inkstone
