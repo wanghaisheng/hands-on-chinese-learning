@@ -30,6 +30,8 @@ https://en.wikibooks.org/wiki/Chinese_(Mandarin)
 
 https://en.wikivoyage.org/wiki/Chinese_phrasebook#Q727694
 
+看电视学中文 for JAPANESE
+https://space.bilibili.com/101544135?from=search&seid=15760312842175293144
 ref
 1.https://en.wikipedia.org/wiki/Chinese_characters
 2.https://github.com/skishore/inkstone
