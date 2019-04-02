@@ -17,6 +17,19 @@ for green hands without any knowledge about chinese，but curious about China an
 >“I tell people that when you have your children, you should be sure to teach them mandarin, because Chinese is going to be the most important language in their life times. The 19th century was the century of the UK，the 20th century was the century of the US, while the 21st century is going to be the century of China, whether we like it or not.”
 
 
+
+## 普通话
+Mandarin Chinese
+
+https://en.wikipedia.org/wiki/Standard_Chinese
+https://en.wikipedia.org/wiki/Mandarin_Chinese
+https://en.wikipedia.org/wiki/Simplified_Chinese_characters
+
+
+https://en.wikibooks.org/wiki/Chinese_(Mandarin)
+
+https://en.wikivoyage.org/wiki/Chinese_phrasebook#Q727694
+
 ref
 1.https://en.wikipedia.org/wiki/Chinese_characters
 2.https://github.com/skishore/inkstone
