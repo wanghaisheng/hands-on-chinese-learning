@@ -21,3 +21,4 @@ ref
 1.https://en.wikipedia.org/wiki/Chinese_characters
 2.https://github.com/skishore/inkstone
 3.https://ke.youdao.com/course/detail/22314?outVendor=bzhan_syyy_pc_P0402daxian_0402zytt12
+4.http://video.sina.com.cn/p/news/w/doc/2018-01-24/190167880681.html
