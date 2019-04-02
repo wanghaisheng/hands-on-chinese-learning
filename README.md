@@ -5,7 +5,7 @@ for green hands without any knowledge about chinese，but curious about China an
 
 ## 为什么要学习中文
 
-中国越来越强大，凡是对中国文化感兴趣，想来中国旅游、想在中国投资、做生意、赚钱的人都可以学习一些中文。
+中国越来越强大，凡是对中国文化感兴趣，想来中国旅游、想来中国工作、想在中国投资、做生意、赚钱的人都可以学习一些中文。
 
 >“因为中国的经济正在起飞，未来它会变成一个远比现在重要的世界级选手。”
 
@@ -32,6 +32,10 @@ https://en.wikivoyage.org/wiki/Chinese_phrasebook#Q727694
 
 看电视学中文 for JAPANESE
 https://space.bilibili.com/101544135?from=search&seid=15760312842175293144
+
+FOR BRITISH
+https://www.bilibili.com/video/av33716467?from=search&seid=9726236426183641635
+
 ref
 1.https://en.wikipedia.org/wiki/Chinese_characters
 2.https://github.com/skishore/inkstone
