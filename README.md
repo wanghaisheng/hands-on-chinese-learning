@@ -20,6 +20,7 @@ for green hands without any knowledge about chinese，but curious about China an
 
 https://www.bilibili.com/video/av9430240?from=search&seid=10883596422006394592
 https://www.bilibili.com/video/av14603987?from=search&seid=6345854016161560604
+https://www.bilibili.com/video/av44757122?from=search&seid=2258981957615697153 旅游十大地点
 
 ## 普通话
 Mandarin Chinese
