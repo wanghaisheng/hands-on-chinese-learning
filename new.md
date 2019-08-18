@@ -124,11 +124,7 @@
     
     world's fourth largest country (after Russia, Canada, and US) and largest country situated entirely in Asia; Mount Everest on the border with Nepal is the world's tallest peak above sea level
     
-*   [
-    
-    People and Society :: China
-    
-    ](#)
+*   [People and Society :: China](#)
 *   [Population](../docs/notesanddefs.html#335): This entry gives an estimate from the US Bureau of the Census based on statistics from population censuses, vital statistics registration systems, or sample surveys pertaining to the recent past and on assumptions about future trends. The total population presents one overall measure of the potential impact of the country on the world and within its region. Note: Starting with the 1993 Factbook, demographic estimates for some countries (mostly African) have explicitly taken into account t . . . [more](../docs/notesanddefs.html#335) [![Population field listing](../images/field_listing.gif "Population field listing")](../fields/335.html#CH) 
     
     1,384,688,986 (July 2018 est.)
@@ -397,11 +393,7 @@
     
     in October 2015, the Chinese Government announced that it would change its rules to allow all couples to have two children, loosening a 1979 mandate that restricted many couples to one child; the new policy was implemented on 1 January 2016 to address China’s rapidly aging population and economic needs
     
-*   [
-    
-    Government :: China
-    
-    ](#)
+*   [Government :: China](#)
 *   [Country name](../docs/notesanddefs.html#296): This entry includes all forms of the country's name approved by the US Board on Geographic Names (Italy is used as an example): conventional long form (Italian Republic), conventional short form (Italy), local long form (Repubblica Italiana), local short form (Italia), former (Kingdom of Italy), as well as the abbreviation. Also see the Terminology note. [![Country name field listing](../images/field_listing.gif "Country name field listing")](../fields/296.html#CH) 
     
     conventional long form: People's Republic of China
@@ -560,11 +552,7 @@
     
     **note:** adopted 1949; the anthem, though banned during the Cultural Revolution, is more commonly known as "Zhongguo Guoge" (Chinese National Song); it was originally the theme song to the 1935 Chinese movie, "Sons and Daughters in a Time of Storm"
     
-*   [
-    
-    Economy :: China
-    
-    ](#)
+*   [Economy :: China](#)
 *   [Economy - overview](../docs/notesanddefs.html#207): This entry briefly describes the type of economy, including the degree of market orientation, the level of economic development, the most important natural resources, and the unique areas of specialization. It also characterizes major economic events and policy changes in the most recent 12 months and may include a statement about one or two key future macroeconomic trends. [![Economy - overview field listing](../images/field_listing.gif "Economy - overview field listing")](../fields/207.html#CH) 
     
     Since the late 1970s, China has moved from a closed, centrally planned system to a more market-oriented one that plays a major global role. China has implemented reforms in a gradualist fashion, resulting in efficiency gains that have contributed to a more than tenfold increase in GDP since 1978. Reforms began with the phaseout of collectivized agriculture, and expanded to include the gradual liberalization of prices, fiscal decentralization, increased autonomy for state enterprises, growth of the private sector, development of stock markets and a modern banking system, and opening to foreign trade and investment. China continues to pursue an industrial policy, state support of key sectors, and a restrictive investment regime. From 2013 to 2017, China had one of the fastest growing economies in the world, averaging slightly more than 7% real growth per year. Measured on a purchasing power parity (PPP) basis that adjusts for price differences, China in 2017 stood as the largest economy in the world, surpassing the US in 2014 for the first time in modern history. China became the world's largest exporter in 2010, and the largest trading nation in 2013. Still, China's per capita income is below the world average.
@@ -885,11 +873,7 @@
     
     6.1958 (2013 est.)
     
-*   [
-    
-    Energy :: China
-    
-    ](#)
+*   [Energy :: China](#)
 *   [Electricity access](../docs/notesanddefs.html#251): This entry provides information on access to electricity. Electrification data – collected from industry reports, national surveys, and international sources – consists of four subfields. Population without electricity provides an estimate of the number of citizens that do not have access to electricity. Electrification – total population is the percent of a country’s total population with access to electricity, electrification – urban areas is the percent of a country’s urban population w . . . [more](../docs/notesanddefs.html#251) [![Electricity access field listing](../images/field_listing.gif "Electricity access field listing")](../fields/251.html#CH) 
     
     population without electricity: 1.2 million (2016)
@@ -1038,11 +1022,7 @@
     
     country comparison to the world: [1](../fields/274rank.html#CH)
     
-*   [
-    
-    Communications :: China
-    
-    ](#)
+*   [Communications :: China](#)
 *   [Telephones - fixed lines](../docs/notesanddefs.html#196): This entry gives the total number of fixed telephone lines in use, as well as the number of subscriptions per 100 inhabitants. [![Telephones - fixed lines field listing](../images/field_listing.gif "Telephones - fixed lines field listing")](../fields/196.html#CH) 
     
     total subscriptions: 193.762 million (2017 est.)
@@ -1091,11 +1071,7 @@
     
     country comparison to the world: [1](../fields/206rank.html#CH)
     
-*   [
-    
-    Transportation :: China
-    
-    ](#)
+*   [Transportation :: China](#)
 *   [National air transport system](../docs/notesanddefs.html#377): This entry includes four subfields describing the air transport system of a given country in terms of both structure and performance. The first subfield, number of registered air carriers, indicates the total number of air carriers registered with the country’s national aviation authority and issued an air operator certificate as required by the Convention on International Civil Aviation. The second subfield, inventory of registered aircraft operated by air carriers, lists the total number . . . [more](../docs/notesanddefs.html#377) [![National air transport system field listing](../images/field_listing.gif "National air transport system field listing")](../fields/377.html#CH) 
     
     number of registered air carriers: 56 (2015)
@@ -1198,11 +1174,7 @@
     
     seven of the world’s ten largest container ports are in China
     
-*   [
-    
-    Military and Security :: China
-    
-    ](#)
+*   [Military and Security :: China](#)
 *   [Military expenditures](../docs/notesanddefs.html#330): This entry gives spending on defense programs for the most recent year available as a percent of gross domestic product (GDP); the GDP is calculated on an exchange rate basis, i.e., not in terms of purchasing power parity (PPP). For countries with no military forces, this figure can include expenditures on public security and police. [![Military expenditures field listing](../images/field_listing.gif "Military expenditures field listing")](../fields/330.html#CH) 
     
     2% of GDP (2017)
@@ -1225,11 +1197,7 @@
     
     18-22 years of age for selective compulsory military service, with a 2-year service obligation; no minimum age for voluntary service (all officers are volunteers); 18-19 years of age for women high school graduates who meet requirements for specific military jobs (2018)
     
-*   [
-    
-    Transnational Issues :: China
-    
-    ](#)
+*   [Transnational Issues :: China](#)
 *   [Disputes - international](../docs/notesanddefs.html#326): This entry includes a wide variety of situations that range from traditional bilateral boundary disputes to unilateral claims of one sort or another. Information regarding disputes over international terrestrial and maritime boundaries has been reviewed by the US Department of State. References to other situations involving borders or frontiers may also be included, such as resource disputes, geopolitical questions, or irredentist issues; however, inclusion does not necessarily constitute . . . [more](../docs/notesanddefs.html#326) [![Disputes - international field listing](../images/field_listing.gif "Disputes - international field listing")](../fields/326.html#CH) 
     
     continuing talks and confidence-building measures work toward reducing tensions over Kashmir that nonetheless remains militarized with portions under the de facto administration of China (Aksai Chin), India (Jammu and Kashmir), and Pakistan (Azad Kashmir and Northern Areas)India does not recognize Pakistan's ceding historic Kashmir lands to China in 1964China and India continue their security and foreign policy dialogue started in 2005 related to the dispute over most of their rugged, militarized boundary, regional nuclear proliferation, and other mattersChina claims most of India's Arunachal Pradesh to the base of the Himalayaslacking any treaty describing the boundary, Bhutan and China continue negotiations to establish a common boundary alignment to resolve territorial disputes arising from substantial cartographic discrepancies, the most contentious of which lie in Bhutan's west along China's Chumbi salientBurmese forces attempting to dig in to the largely autonomous Shan State to rout local militias tied to the drug trade, prompts local residents to periodically flee into neighboring Yunnan Province in ChinaChinese maps show an international boundary symbol off the coasts of the littoral states of the South China Seas, where China has interrupted Vietnamese hydrocarbon explorationChina asserts sovereignty over Scarborough Reef along with the Philippines and Taiwan, and over the Spratly Islands together with Malaysia, the Philippines, Taiwan, Vietnam, and Bruneithe 2002 Declaration on the Conduct of Parties in the South China Sea eased tensions in the Spratlys but is not the legally binding code of conduct sought by some partiesVietnam and China continue to expand construction of facilities in the Spratlys and in March 2005, the national oil companies of China, the Philippines, and Vietnam signed a joint accord on marine seismic activities in the Spratly Islands;China and ASEAN began formal South China Sea Code of Conduct negotiations in March 2018, but it remains unclear the timeline for a final agreement and how it would be enforced;
