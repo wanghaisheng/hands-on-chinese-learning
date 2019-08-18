@@ -1,21 +1,13 @@
 
 
-*   [
-    
-    Introduction :: China
-    
-    ](#)
+*   [Introduction :: China](#)
 *   [Background](../docs/notesanddefs.html#325): This entry usually highlights major historic events and current issues and may include a statement about one or two key future trends. [![Background field listing](../images/field_listing.gif "Background field listing")](../fields/325.html#CH) 
     
     China's historical civilization dates from at least 1200 B.C.; from the 3rd century B.C. and for the next two millennia, China alternated between periods of unity and disunity under a succession of imperial dynasties. In the 19th and early 20th centuries, the country was beset by civil unrest, major famines, military defeats, and foreign occupation. After World War II, the Chinese Communist Party under MAO Zedong established an autocratic socialist system that, while ensuring China's sovereignty, imposed strict controls over everyday life and cost the lives of tens of millions of people. After 1978, MAO's successor DENG Xiaoping and other leaders focused on market-oriented economic development and by 2000 output had quadrupled. For much of the population, living standards have improved dramatically but political controls remain tight. Since the early 1990s, China has increased its global outreach and participation in international organizations.
     
     **CHINA SUMMARY:** [![Adobe](../images/adobe.png)](../attachments/docs/original/CH_general_one_pager.pdf?1538702727) [PDF](../attachments/docs/original/CH_general_one_pager.pdf?1538702727)
     
-*   [
-    
-    Geography :: China
-    
-    ](#)
+*   [Geography :: China](#)
 *   [Location](../docs/notesanddefs.html#276): This entry identifies the country's regional location, neighboring countries, and adjacent bodies of water. [![Location field listing](../images/field_listing.gif "Location field listing")](../fields/276.html#CH) 
     
     Eastern Asia, bordering the East China Sea, Korea Bay, Yellow Sea, and South China Sea, between North Korea and Vietnam
