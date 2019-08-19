@@ -36,7 +36,7 @@
     Area comparison map:  
     
 
-    !Area comparison map(../images/CH_area.jpg)
+    ![Area comparison map](../images/CH_area.jpg)
     
     Image Description
     
@@ -164,7 +164,7 @@
     65 years and over: 11.27% (male 74,277,631 /female 81,828,269) (2018 est.)
     
     population pyramid:      
-    !population pyramid(../images/CH_popgraph.bmp)
+    ![population pyramid](../images/CH_popgraph.bmp)
     
         
     Dependency ratios: Dependency ratios are a measure of the age structure of a population. They relate the number of individuals that are likely to be economically "dependent" on the support of others. Dependency ratios contrast the ratio of youths (ages 0-14) and the elderly (ages 65+) to the number of those in the working-age group (ages 15-64). Changes in the dependency ratio provide an indication of potential social support requirements resulting from changes in population age structures. As fertility lev . . . more  
