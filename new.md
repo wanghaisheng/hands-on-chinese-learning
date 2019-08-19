@@ -35,11 +35,8 @@
     
     Area comparison map:  
     
-    The World Factbook Field Image Modal ×
-    
-    East Asia/Southeast Asia **::** China Print
-    
-    !Area comparison map(../attachments/images/large/CH_area.jpg?1538604815)
+
+    !Area comparison map(../images/CH_area.jpg)
     
     Image Description
     
@@ -166,20 +163,10 @@
     
     65 years and over: 11.27% (male 74,277,631 /female 81,828,269) (2018 est.)
     
-    population pyramid:  
+    population pyramid:      
+    !population pyramid(../images/CH_popgraph.bmp)
     
-    The World Factbook Field Image Modal ×
-    
-    East Asia/Southeast Asia **::** China Print
-    
-    !population pyramid(../attachments/images/large/CH_popgraph.bmp?1538604943)
-    
-    Image Description
-    
-    
-      
-    For additional information, please see the entry for Population pyramid on the Definitions and Notes page under the References tab.
-    
+        
     Dependency ratios: Dependency ratios are a measure of the age structure of a population. They relate the number of individuals that are likely to be economically "dependent" on the support of others. Dependency ratios contrast the ratio of youths (ages 0-14) and the elderly (ages 65+) to the number of those in the working-age group (ages 15-64). Changes in the dependency ratio provide an indication of potential social support requirements resulting from changes in population age structures. As fertility lev . . . more  
     
     total dependency ratio: 37.7 (2015 est.)
